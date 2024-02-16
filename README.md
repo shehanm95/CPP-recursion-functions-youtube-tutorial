@@ -2,9 +2,9 @@ you can get all the c++ recursion questions and answers in here,
 
 my tutorial vedio >> https://www.youtube.com/watch?v=P129tsrdWSI
 
-==========================================================================================
-===========================================C++ Recursion functions.=======================
-==========================================================================================
+
+========C++ Recursion functions.=====
+
 
 
 1. Write a c++ program to find factorial of first 5 numbers without using loops;
